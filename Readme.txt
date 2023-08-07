@@ -1,4 +1,3 @@
-Lab 5 :
 
 The commands for compiling the program are :
 
